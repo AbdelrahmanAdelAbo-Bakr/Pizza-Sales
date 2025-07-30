@@ -30,4 +30,9 @@ This project focuses on analyzing a full year of pizza sales data using SQL Serv
 - 🏆 Top 5 pizzas by revenue, quantity sold, and number of orders  
 - ❌ Bottom 5 pizzas by the same metrics
 
-  
+![image alt](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/7210faa5c5a1be9fdd7f0c53cbd8faa71d6bd1ef/Summary.png)
+
+![image alt](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/7210faa5c5a1be9fdd7f0c53cbd8faa71d6bd1ef/Summary%20Scrolling.png)
+
+![image alt](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/7210faa5c5a1be9fdd7f0c53cbd8faa71d6bd1ef/Performance.png)
+
