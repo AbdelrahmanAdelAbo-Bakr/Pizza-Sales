@@ -32,7 +32,7 @@ This project focuses on analyzing a full year of pizza sales data using SQL Serv
 
 ![image alt](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/7210faa5c5a1be9fdd7f0c53cbd8faa71d6bd1ef/Summary.png)
 
-![image alt](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/7210faa5c5a1be9fdd7f0c53cbd8faa71d6bd1ef/Summary%20Scrolling.png)
+![image alt](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/5d315332d538bfa9609cac6d6daac2f8fa1817d9/Summary%20Scrolling.png)
 
 ![image alt](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/1993f8e6c5cea83eb6d611f0ec052e1db2f9c24c/Summary%202.png)
 
