@@ -35,10 +35,10 @@ This project focuses on analyzing a full year of pizza sales data using SQL Serv
 ### 📊 Summary View  
 ![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/41518403fc25584551949f415759cb1f3edebc89/Summary.png)
 
-![image alt](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/5d315332d538bfa9609cac6d6daac2f8fa1817d9/Summary%20Scrolling.png)
+![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/5d315332d538bfa9609cac6d6daac2f8fa1817d9/Summary%20Scrolling.png)
 
-![image alt](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/5d2944c48dca4e20a10489e12f55506c9311f97f/Summary%202.png)
+![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/5d2944c48dca4e20a10489e12f55506c9311f97f/Summary%202.png)
 
 
-### 🧺 Product Performance  
-![image alt](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/b1ac248f9394c0318dd745e4a83b2cefeef283f0/Performance.png)
+### 🧺 Pizza Performance  
+![Performance](https://github.com/AbdelrahmanAdelAbo-Bakr/Pizza-Sales/blob/b1ac248f9394c0318dd745e4a83b2cefeef283f0/Performance.png)
